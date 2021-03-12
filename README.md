@@ -7,7 +7,7 @@ This is a resurrected copy of onroundit's raylib-d package. I've released 3.1.0 
 (static) D bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 
 # Installation
-`dub add raylib-d`
+`dub add raylib-d2`
 
 ## First, get a copy of Raylib
 You can get the library by compiling it from the [source](https://github.com/raysan5/raylib), download the [official precompiled binaries](https://github.com/raysan5/raylib/releases) or [download them from our repository](https://github.com/onroundit/raylib-d/releases) (originally taken from official releases, sorted in folders for each system).
