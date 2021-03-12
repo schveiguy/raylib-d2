@@ -3,7 +3,7 @@ This is a resurrected copy of onroundit's raylib-d package. I've released 3.1.0 
 
 ![](raylib_logo.png)
 
-# raylib-d2 [![DUB](https://img.shields.io/dub/v/raylib-d?style=for-the-badge)](https://code.dlang.org/packages/raylib-d2)
+# raylib-d2 [![DUB](https://img.shields.io/dub/v/raylib-d2?style=for-the-badge)](https://code.dlang.org/packages/raylib-d2)
 (static) D bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 
 # Installation
