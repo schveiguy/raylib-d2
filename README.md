@@ -1,3 +1,6 @@
+# NOTE
+This is a resurrected copy of onroundit's raylib-d package. I've released 3.0.4 which is identical to 3.0.3 with a fix for a bug in the header (I don't have the original bug report because the original github repo is gone) but with the name changed to avoid naming conflict on code.dlang.org. I don't know if it will work if you depend on prior versions, as the git history will have the old name in it.
+
 ![](raylib_logo.png)
 
 # raylib-d [![DUB](https://img.shields.io/dub/v/raylib-d?style=for-the-badge)](https://code.dlang.org/packages/raylib-d)

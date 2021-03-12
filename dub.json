@@ -1,5 +1,5 @@
 {
-	"name": "raylib-d",
+	"name": "raylib-d2",
 	"description": "D binding for Raylib",
 	"license": "Zlib",
 	"authors": [
@@ -10,7 +10,7 @@
         {
             "name": "unittest",
             "dependencies": {
-                "fluent-asserts": "~>0.13.0",
+                "fluent-asserts": "~>0.13.0"
             }
         }
     ],	
