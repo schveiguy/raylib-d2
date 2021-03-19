@@ -1,5 +1,6 @@
-# NOTE
-This is a resurrected copy of onroundit's raylib-d package. I've released 3.1.0 which is identical to 3.0.3 with a fix for a bug in the header (I don't have the original bug report because the original github repo is gone) but with the name changed to avoid naming conflict on code.dlang.org. I also fixed the name in all the original tags, so all you should need to do is update your raylib-d dependency to raylib-d2.
+# ARCHIVED
+
+This was a resurrected copy of onroundit's raylib-d package. In the meantime, onroundit has redirected the dub package to point at my repository for raylib-d. Which means, this package is no longer required. I will leave this up in case anyone is depending on it currently, but I will release 3.1.1 which will warn people the package is not maintained, and to switch to raylib-d.
 
 ![](raylib_logo.png)
 

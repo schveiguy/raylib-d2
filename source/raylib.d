@@ -1,5 +1,7 @@
 module raylib;
 
+pragma(msg, "Note: This library being maintained once again under the raylib-d dub package. Please switch your dependencies to use that package instead");
+
 public
 {
     import rlgl;
